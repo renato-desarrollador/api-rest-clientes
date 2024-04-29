@@ -1,0 +1,6 @@
+com\std\ec\service\ICliente.class
+com\std\ec\model\dao\ClienteDao.class
+com\std\ec\controller\ClienteController.class
+com\std\ec\model\entity\Cliente.class
+com\std\ec\service\impl\ClienteImpl.class
+com\std\ec\MiPrimerApiRestApplication.class

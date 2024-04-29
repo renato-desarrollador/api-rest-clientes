@@ -1,0 +1,6 @@
+C:\Spring Boot\Proyecto02\mi-primer-api-rest\src\main\java\com\std\ec\MiPrimerApiRestApplication.java
+C:\Spring Boot\Proyecto02\mi-primer-api-rest\src\main\java\com\std\ec\service\impl\ClienteImpl.java
+C:\Spring Boot\Proyecto02\mi-primer-api-rest\src\main\java\com\std\ec\model\dao\ClienteDao.java
+C:\Spring Boot\Proyecto02\mi-primer-api-rest\src\main\java\com\std\ec\model\entity\Cliente.java
+C:\Spring Boot\Proyecto02\mi-primer-api-rest\src\main\java\com\std\ec\service\ICliente.java
+C:\Spring Boot\Proyecto02\mi-primer-api-rest\src\main\java\com\std\ec\controller\ClienteController.java
